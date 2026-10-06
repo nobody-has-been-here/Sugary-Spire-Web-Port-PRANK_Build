@@ -11,4 +11,4 @@ Step 4: Then open your port (8080) in a Web browser, wait for it to load, click 
 
 # For people who have a existing codespace with installed files
 
-Do Step 3 in the main instructions, then do step 4.
+Open your code space, go to ports, then do step 4.
